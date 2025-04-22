@@ -28,7 +28,6 @@ This project involves creating an interactive Power BI dashboard for analyzing k
 ## How to Use the Dashboard
 1. Once the `.pbix` file is opened, navigate through the various visualizations to explore insights.
 2. Use filters to drill down into specific time periods, product categories, or customer segments.
-3. The rest of the files are CSV files and are all the data I analyzed.
-
+   
 ## Conclusion
 This project highlights the power of Power BI in transforming raw data into actionable insights for business growth. By tracking key performance indicators (KPIs), businesses can optimize their operations and improve customer satisfaction.
