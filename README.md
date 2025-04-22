@@ -1,4 +1,3 @@
-# ecommerce-powerbi-dashboard
 # E-commerce Data Analysis using Power BI
 
 ## Project Overview
